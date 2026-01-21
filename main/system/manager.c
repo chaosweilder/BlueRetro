@@ -41,8 +41,8 @@
 
 #define SENSE_P1_PIN 35   
 #define SENSE_P2_PIN 36
-#define SENSE_P3_PIN 32
-#define SENSE_P4_PIN 33
+#define SENSE_P3_PIN 2
+#define SENSE_P4_PIN 4
 
 #define SENSE_P1_ALT_PIN 15
 #define SENSE_P2_ALT_PIN 34
