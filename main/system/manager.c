@@ -39,18 +39,18 @@
 
 #define POWER_OFF_ALT_PIN 12
 
-#define SENSE_P1_PIN 14
-#define SENSE_P2_PIN 32
-#define SENSE_P3_PIN 33
-#define SENSE_P4_PIN 25
+#define SENSE_P1_PIN 2
+#define SENSE_P2_PIN 4
+#define SENSE_P3_PIN 12
+#define SENSE_P4_PIN 15
 
 #define SENSE_P1_ALT_PIN 15
 #define SENSE_P2_ALT_PIN 34
 
-#define LED_P1_PIN 2
-#define LED_P2_PIN 4
-#define LED_P3_PIN 12
-#define LED_P4_PIN 15
+#define LED_P1_PIN 14
+#define LED_P2_PIN 32
+#define LED_P3_PIN 33
+#define LED_P4_PIN 25
 
 #define INHIBIT_CNT 200
 
